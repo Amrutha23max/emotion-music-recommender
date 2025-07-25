@@ -1,0 +1,23 @@
+# Core Backend
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# Database
+sqlalchemy
+alembic
+
+# Basic ML & CV (install these first)
+opencv-python
+scikit-learn
+numpy
+pandas
+Pillow
+
+# Music Integration
+spotipy
+requests
+
+# Development
+pytest
